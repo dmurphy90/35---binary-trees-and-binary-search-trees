@@ -29,6 +29,6 @@
     "quotes": ["error", "single", { "allowTemplateLiterals": true }],
     "comma-dangle": ["error", "always-multiline"],
     "semi": [ "error", "always" ],
-    "linebreak-style": ["error", "windows"]
+    "linebreak-style": ["error", "unix"]
   }
 }
